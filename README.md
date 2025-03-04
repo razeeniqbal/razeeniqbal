@@ -23,6 +23,6 @@ Apart from data analytics, I actively **work on machine learning and AI projects
 
 ## 📢 Let's Connect!  
 🔗 **LinkedIn:** [linkedin.com/in/razeeniqbal](https://www.linkedin.com/in/razeeniqbal/)  
-🌐 **Website:** [razeeniqbal.github.io](https://razeeniqbal.github.io)  
+🌐 **Website:** [razeeniqbal.github.io]([https://razeeniqbal.github.io](https://razeeniqbal.github.io/portfolio/))  
 
 ---
