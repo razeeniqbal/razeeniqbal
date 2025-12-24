@@ -23,22 +23,18 @@ Experienced Data Analyst with hands-on skills in SQL, Python, Power BI, and AI-d
 src="https://img.shields.io/github/followers/razeeniqbal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=razeeniqbal&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=razeeniqbal&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=razeeniqbal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/razeeniqbal"><img src="https://github-readme-stats.vercel.app/api?username=razeeniqbal&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="razeeniqbal's GitHub stats" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=razeeniqbal&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="http://www.github.com/razeeniqbal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=razeeniqbal&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://github.com/razeeniqbal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razeeniqbal&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=razeeniqbal&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/razeeniqbal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
