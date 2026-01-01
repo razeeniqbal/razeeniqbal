@@ -7,7 +7,7 @@ Data Analyst @ AEM Enersol | MSc in Artificial Intelligence | ADLP 2025
 Experienced Data Analyst with hands-on skills in SQL, Python, Power BI, and AI-driven tools. I love turning raw data into clear stories and building dashboards that help businesses grow faster and smarter. Currently diving deeper into Machine Learning and NLP as part of my Master’s in Artificial Intelligence. Always curious, always learning.
 
 * 🌍  I'm based in Kuantan, Malaysia.
-* 🖥️  See my portfolio at [Web Portfolio](http://portfolio-razeeniqbal.bolt.host/)
+* 🖥️  See my portfolio at [Web Portfolio](https://razeeniqbal.vercel.app/)
 * ✉️  You can contact me at [razeeniqbal98@gmail.com](mailto:razeeniqbal98@gmail.com)
 * 🧠  I'm currently learning AI, ML and Deep Learning.
 * 👥  I'm looking to collaborate on making new project from scratch just for learning.
