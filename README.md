@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Razeen Iqbal
 =====================================================================================================================================
 
-Data Analyst @ AEM Enersol | MSc in Artificial Intelligence | ADLP 2025
+AI & Data Analyst @ AEM Enersol | MSc in Artificial Intelligence
 -----------------------------------------------------------------------
 
 Experienced Data Analyst with hands-on skills in SQL, Python, Power BI, and AI-driven tools. I love turning raw data into clear stories and building dashboards that help businesses grow faster and smarter. Currently diving deeper into Machine Learning and NLP as part of my Master’s in Artificial Intelligence. Always curious, always learning.
