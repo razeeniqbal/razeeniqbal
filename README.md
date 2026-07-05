@@ -1,220 +1,162 @@
 # Hi there 👋 I'm Razeen Iqbal
 
-<div align="center">
-
 ### Data & AI Engineer @ AEM Enersol
+**Microsoft Certified: Azure AI Engineer Associate (AI-102)** • **MSc in Artificial Intelligence**
 
-**Microsoft Certified: Azure AI Engineer Associate (AI-102)**  
-**MSc in Artificial Intelligence**
+I build AI-powered applications, scalable data pipelines, and analytics solutions that transform raw data into meaningful business insights.
 
-Building intelligent applications, scalable data platforms, and AI-powered solutions.
+My interests include **Artificial Intelligence**, **Data Engineering**, **Machine Learning**, **Generative AI**, and **Cloud Technologies**.
 
-[🌐 Portfolio](https://razeeniqbal.vercel.app/) •
-[💼 LinkedIn](https://www.linkedin.com/in/razeeniqbal) •
-[📧 Email](mailto:razeeniqbal98@gmail.com)
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I'm a **Data & AI Engineer** passionate about building intelligent applications, scalable data pipelines, and enterprise AI solutions.
-
-I enjoy transforming raw data into meaningful insights through modern data engineering, machine learning, and cloud technologies.
-
-Currently, I work at **AEM Enersol**, where I build data solutions, automate workflows, and develop AI-powered applications for real business use cases.
+<p align="left">
+  <a href="https://razeeniqbal.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/razeeniqbal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:razeeniqbal98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🚀 Professional Highlights
+# 🚀 About Me
 
-- 💼 Data & AI Engineer @ **AEM Enersol**
+- 💼 Data & AI Engineer at **AEM Enersol**
 - 🎓 Master of Science in Artificial Intelligence
 - 🏅 Microsoft Certified: Azure AI Engineer Associate (AI-102)
-- 📊 Microsoft Certified: Power BI Data Analyst Associate
-- ☁️ Microsoft Azure Data Fundamentals (DP-900)
-- ⚡ Confluent Data Streaming Engineer Foundations
-- 🎤 AI Showcase Presenter at SPE Summit
-- 🤖 Built AI-powered enterprise applications
-- 📈 Experience developing production ETL pipelines and analytics platforms
+- 📊 Experienced in Data Engineering, AI, Analytics, and Cloud Solutions
+- 🤖 Passionate about building AI applications and enterprise data platforms
+- 🌱 Currently exploring LLMs, AI Agents, Azure AI, and Modern Data Engineering
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-## Programming Languages
+### Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,bash" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,typescript,javascript,bash" />
 </p>
 
-## Data Engineering & Databases
+### AI & Machine Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,kubernetes,azure" />
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-## AI & Machine Learning
+OpenAI • Scikit-learn • FastText • NLP • LLM Applications • AI Agents
 
-- OpenAI API
-- Scikit-learn
-- FastText
-- TensorFlow
-- PyTorch
-- NLP
-- LLM Applications
-- AI Agents
+### Data Engineering
 
-## Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,nodejs" />
+<p>
+<img src="https://skillicons.dev/icons?i=azure,postgres,mysql,supabase,docker,kubernetes" />
 </p>
 
-## Tools
+Power BI • ETL • Data Warehousing • SQL Server
 
-<p align="left">
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,tailwind,html,css" />
+</p>
+
+### Tools
+
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# ⭐ Featured Projects
 
-## ⭐ QualityPlus
+## 🧠 QualityPlus
 AI-powered Data Quality Management Platform
 
-**Tech Stack**
-- React
-- TypeScript
-- Supabase
-- AI
-- PDF Reporting
+**Tech Stack:** React • TypeScript • Supabase • AI
 
-Features
-
-- Data Quality Assessment
 - AI Rule Recommendation
 - AI Summary
-- PDF Report Export
-- History Tracking
+- Data Quality Assessment
+- PDF Report Generation
 
 ---
 
-## ⭐ AI Hiring Platform
+## 🤖 AI Hiring Platform
 
-AI-powered resume screening and candidate matching system.
+AI-powered candidate screening and resume matching system.
 
-**Tech Stack**
-
-- React
-- AI
-- Machine Learning
-- TypeScript
+**Tech Stack:** React • TypeScript • Machine Learning
 
 ---
 
-## ⭐ House Price Prediction MLOps
+## 🏠 House Price Prediction MLOps
 
-End-to-end Machine Learning pipeline using
-
-- Kubeflow
-- Jenkins
-- Docker
-- Python
+End-to-end Machine Learning pipeline using Kubeflow, Jenkins, Docker, and Python.
 
 ---
 
-## ⭐ HR Analytics Dashboard
+## 📊 HR Analytics Dashboard
 
-Employee Attrition Prediction Dashboard using
-
-- Power BI
-- Python
-- Machine Learning
+Employee attrition prediction dashboard using Power BI and Machine Learning.
 
 ---
 
-## ⭐ NLP Activity Classification
+## 📝 NLP Activity Classification
 
-Machine Learning model using FastText for enterprise activity classification.
-
----
-
-## ⭐ Travel Planner
-
-Smart travel planning application using
-
-- React
-- Google Maps API
-- TypeScript
+Enterprise activity classification model using FastText and Natural Language Processing.
 
 ---
 
-# 🎯 Current Focus
+## 🗺 Travel Planner
 
-Currently exploring
-
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
-- ⚡ AI Agents
-- ☁️ Azure AI
-- 📊 Data Engineering
-- 🔄 Enterprise Automation
-- 🚀 Production AI Applications
+Smart travel planning application powered by Google Maps API and React.
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
-🏅 Microsoft Certified: Azure AI Engineer Associate (AI-102)
-
-🏅 Microsoft Certified: Power BI Data Analyst Associate
-
-🏅 Microsoft Azure Data Fundamentals (DP-900)
-
-🏅 PCEP – Certified Entry-Level Python Programmer
-
-🏅 Confluent Data Streaming Engineer Foundations
-
-🏅 Apache Flink Data Streaming
+- Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Azure Data Fundamentals (DP-900)
+- PCEP – Certified Entry-Level Python Programmer
+- Confluent Data Streaming Engineer Foundations
+- Apache Flink Data Streaming
 
 ---
 
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on projects involving
-
-- Artificial Intelligence
-- Data Engineering
-- Machine Learning
-- Open Source
-- Enterprise Applications
-- Cloud Technologies
-
-Feel free to reach out!
-
----
-
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=razeeniqbal&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=razeeniqbal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=razeeniqbal&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razeeniqbal&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razeeniqbal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=razeeniqbal&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on projects involving:
+
+- 🤖 Artificial Intelligence
+- ⚡ Data Engineering
+- 📊 Analytics
+- 🧠 Machine Learning
+- ☁️ Cloud Technologies
+- 🚀 Open Source
+
+Feel free to connect with me!
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/razeeniqbal">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -224,21 +166,14 @@ Feel free to reach out!
 </a>
 
 <a href="mailto:razeeniqbal98@gmail.com">
-<img src="https://img.shields.io/badge/Email-razeeniqbal98%40gmail.com-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-razeeniqbal98%40gmail.com-red?style=flat-square&logo=gmail"/>
 </a>
-
-<a href="https://razeeniqbal.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-</a>
-
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 "Building AI solutions that turn data into business value."
 
-*"Turning data into intelligence, and ideas into impactful solutions."*
-
-</div>
+</p>
