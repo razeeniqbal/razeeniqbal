@@ -1,39 +1,244 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Razeen Iqbal
-=====================================================================================================================================
+# Hi there 👋 I'm Razeen Iqbal
 
-AI & Data Analyst @ AEM Enersol | MSc in Artificial Intelligence
------------------------------------------------------------------------
+<div align="center">
 
-Experienced Data Analyst with hands-on skills in SQL, Python, Power BI, and AI-driven tools. I love turning raw data into clear stories and building dashboards that help businesses grow faster and smarter. Currently diving deeper into Machine Learning and NLP as part of my Master’s in Artificial Intelligence. Always curious, always learning.
+### Data & AI Engineer @ AEM Enersol
 
-* 🌍  I'm based in Kuantan, Malaysia.
-* 🖥️  See my portfolio at [Web Portfolio](https://razeeniqbal.vercel.app/)
-* ✉️  You can contact me at [razeeniqbal98@gmail.com](mailto:razeeniqbal98@gmail.com)
-* 🧠  I'm currently learning AI, ML and Deep Learning.
-* 👥  I'm looking to collaborate on making new project from scratch just for learning.
+**Microsoft Certified: Azure AI Engineer Associate (AI-102)**  
+**MSc in Artificial Intelligence**
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-</p>
+Building intelligent applications, scalable data platforms, and AI-powered solutions.
 
-### Socials
+[🌐 Portfolio](https://razeeniqbal.vercel.app/) •
+[💼 LinkedIn](https://www.linkedin.com/in/razeeniqbal) •
+[📧 Email](mailto:razeeniqbal98@gmail.com)
 
-<p align="left"> <a href="https://www.github.com/razeeniqbal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/razeeniqbal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/ajeen16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/razeeniqbal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/razeeniqbal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=razeeniqbal&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=razeeniqbal&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=razeeniqbal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=razeeniqbal&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=razeeniqbal&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+I'm a **Data & AI Engineer** passionate about building intelligent applications, scalable data pipelines, and enterprise AI solutions.
+
+I enjoy transforming raw data into meaningful insights through modern data engineering, machine learning, and cloud technologies.
+
+Currently, I work at **AEM Enersol**, where I build data solutions, automate workflows, and develop AI-powered applications for real business use cases.
+
+---
+
+# 🚀 Professional Highlights
+
+- 💼 Data & AI Engineer @ **AEM Enersol**
+- 🎓 Master of Science in Artificial Intelligence
+- 🏅 Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- 📊 Microsoft Certified: Power BI Data Analyst Associate
+- ☁️ Microsoft Azure Data Fundamentals (DP-900)
+- ⚡ Confluent Data Streaming Engineer Foundations
+- 🎤 AI Showcase Presenter at SPE Summit
+- 🤖 Built AI-powered enterprise applications
+- 📈 Experience developing production ETL pipelines and analytics platforms
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,bash" />
+</p>
+
+## Data Engineering & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,kubernetes,azure" />
+</p>
+
+## AI & Machine Learning
+
+- OpenAI API
+- Scikit-learn
+- FastText
+- TensorFlow
+- PyTorch
+- NLP
+- LLM Applications
+- AI Agents
+
+## Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,nodejs" />
+</p>
+
+## Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ⭐ QualityPlus
+AI-powered Data Quality Management Platform
+
+**Tech Stack**
+- React
+- TypeScript
+- Supabase
+- AI
+- PDF Reporting
+
+Features
+
+- Data Quality Assessment
+- AI Rule Recommendation
+- AI Summary
+- PDF Report Export
+- History Tracking
+
+---
+
+## ⭐ AI Hiring Platform
+
+AI-powered resume screening and candidate matching system.
+
+**Tech Stack**
+
+- React
+- AI
+- Machine Learning
+- TypeScript
+
+---
+
+## ⭐ House Price Prediction MLOps
+
+End-to-end Machine Learning pipeline using
+
+- Kubeflow
+- Jenkins
+- Docker
+- Python
+
+---
+
+## ⭐ HR Analytics Dashboard
+
+Employee Attrition Prediction Dashboard using
+
+- Power BI
+- Python
+- Machine Learning
+
+---
+
+## ⭐ NLP Activity Classification
+
+Machine Learning model using FastText for enterprise activity classification.
+
+---
+
+## ⭐ Travel Planner
+
+Smart travel planning application using
+
+- React
+- Google Maps API
+- TypeScript
+
+---
+
+# 🎯 Current Focus
+
+Currently exploring
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- ⚡ AI Agents
+- ☁️ Azure AI
+- 📊 Data Engineering
+- 🔄 Enterprise Automation
+- 🚀 Production AI Applications
+
+---
+
+# 📜 Certifications
+
+🏅 Microsoft Certified: Azure AI Engineer Associate (AI-102)
+
+🏅 Microsoft Certified: Power BI Data Analyst Associate
+
+🏅 Microsoft Azure Data Fundamentals (DP-900)
+
+🏅 PCEP – Certified Entry-Level Python Programmer
+
+🏅 Confluent Data Streaming Engineer Foundations
+
+🏅 Apache Flink Data Streaming
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on projects involving
+
+- Artificial Intelligence
+- Data Engineering
+- Machine Learning
+- Open Source
+- Enterprise Applications
+- Cloud Technologies
+
+Feel free to reach out!
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=razeeniqbal&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=razeeniqbal&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razeeniqbal&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/razeeniqbal">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/razeeniqbal">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:razeeniqbal98@gmail.com">
+<img src="https://img.shields.io/badge/Email-razeeniqbal98%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://razeeniqbal.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning data into intelligence, and ideas into impactful solutions."*
+
+</div>
