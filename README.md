@@ -1,12 +1,9 @@
-<!-- =========================================================
-     RAZEEN IQBAL · GITHUB PROFILE
-     portfolio.madebyrazeen.com
-========================================================= -->
-
 <p align="center">
-  <img src="./assets/razeeniqbal-horizontal-lockup.png"
-       alt="razeeniqbal. — Razeen Iqbal"
-       width="850" />
+  <img
+    src="./assets/razeeniqbal-horizontal-lockup.png"
+    alt="razeeniqbal."
+    width="850"
+  />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Razeen Iqbal</h1>
@@ -14,18 +11,8 @@
 <h3 align="center">Data & AI Engineer @ AEM Enersol</h3>
 
 <p align="center">
-  <strong>Microsoft Certified: Azure AI Engineer Associate (AI-102)</strong>
-  &nbsp;•&nbsp;
-  <strong>MSc in Artificial Intelligence</strong>
-</p>
-
-<p align="center">
-  I build AI-powered applications, scalable data pipelines, and enterprise
-  analytics solutions that transform raw data into useful systems and products.
-</p>
-
-<p align="center">
-  <strong>Data Engineering • Artificial Intelligence • Machine Learning • Generative AI • Product Building</strong>
+  I build data systems, AI-powered applications, and digital products —
+  turning raw data and ideas into useful, reliable solutions.
 </p>
 
 <p align="center">
@@ -40,22 +27,16 @@
   </a>
 </p>
 
-<p align="center">
-  <code>INPUT → PROCESS → ITERATE → PROGRESS</code>
-</p>
-
 ---
 
 ## 🚀 About Me
 
 - 💼 Data & AI Engineer at **AEM Enersol**
-- 🎓 Master of Science in **Artificial Intelligence**
-- 🏅 Microsoft Certified: **Azure AI Engineer Associate (AI-102)**
-- 📊 Working across **Data Engineering, AI, Analytics, and Cloud Solutions**
-- 🤖 Building **AI-powered applications, data platforms, and digital products**
-- 🌱 Currently exploring **LLM applications, AI agents, and modern data engineering**
-- 🧪 Building independent projects and experiments under **Made by Razeen**
-- 🏃 Outside tech, you'll probably find me doing something sports-related
+- 🎓 MSc in **Artificial Intelligence**
+- 🤖 Working across **Data Engineering, Applied AI, Analytics, and Cloud**
+- 🧪 Exploring **LLM applications, AI agents, and intelligent data systems**
+- 🛠 Building independent projects and experiments under **Made by Razeen**
+- 🏃 Sports addict when I'm away from the screen
 
 > **Engineer. Builder. Sports Addict. Curious Human.**
 
@@ -101,12 +82,12 @@
 
 ## 🏆 Certifications
 
-- 🥇 **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
-- 🥇 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
-- 🥇 **Microsoft Azure Data Fundamentals (DP-900)**
-- 🥇 **PCEP – Certified Entry-Level Python Programmer**
-- 🥇 **Confluent Data Streaming Engineer Foundations**
-- 🥇 **Confluent Data Streaming with Apache Flink**
+- **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+- **Microsoft Azure Data Fundamentals (DP-900)**
+- **PCEP – Certified Entry-Level Python Programmer**
+- **Confluent Data Streaming Engineer Foundations**
+- **Confluent Data Streaming with Apache Flink**
 
 ---
 
@@ -121,44 +102,13 @@
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always happy to connect and collaborate on projects involving:
-
-- 🤖 Artificial Intelligence & AI Agents
-- ⚡ Data Engineering
-- 📊 Analytics
-- 🧠 Machine Learning
-- ☁️ Cloud Technologies
-- 🧩 Product Building
-- 🚀 Open Source
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/razeeniqbal">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/razeeniqbal">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
-  <a href="mailto:razeeniqbal98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-razeeniqbal98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
-### `razeeniqbal.`
-
-**Engineer. Builder. Sports Addict. Curious Human.**
+### Always building.
 
 `INPUT → PROCESS → ITERATE → PROGRESS`
 
-[Portfolio](https://portfolio.madebyrazeen.com) •
-[LinkedIn](https://www.linkedin.com/in/razeeniqbal)
+**[Portfolio](https://portfolio.madebyrazeen.com) • [LinkedIn](https://www.linkedin.com/in/razeeniqbal)**
 
 <sub>MADE BY RAZEEN</sub>
 
