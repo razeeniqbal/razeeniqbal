@@ -1,121 +1,165 @@
-# razeeniqbal.
+<!-- =========================================================
+     RAZEEN IQBAL · GITHUB PROFILE
+     portfolio.madebyrazeen.com
+========================================================= -->
+
+<p align="center">
+  <img src="./assets/razeeniqbal-horizontal-lockup.png"
+       alt="razeeniqbal. — Razeen Iqbal"
+       width="850" />
+</p>
+
+<h1 align="center">Hi there 👋 I'm Razeen Iqbal</h1>
+
+<h3 align="center">Data & AI Engineer @ AEM Enersol</h3>
+
+<p align="center">
+  <strong>Microsoft Certified: Azure AI Engineer Associate (AI-102)</strong>
+  &nbsp;•&nbsp;
+  <strong>MSc in Artificial Intelligence</strong>
+</p>
+
+<p align="center">
+  I build AI-powered applications, scalable data pipelines, and enterprise
+  analytics solutions that transform raw data into useful systems and products.
+</p>
+
+<p align="center">
+  <strong>Data Engineering • Artificial Intelligence • Machine Learning • Generative AI • Product Building</strong>
+</p>
+
+<p align="center">
+  <a href="https://portfolio.madebyrazeen.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-090909?style=for-the-badge&logo=googlechrome&logoColor=D8FF3E" />
+  </a>
+  <a href="https://www.linkedin.com/in/razeeniqbal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-090909?style=for-the-badge&logo=linkedin&logoColor=D8FF3E" />
+  </a>
+  <a href="mailto:razeeniqbal98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-090909?style=for-the-badge&logo=gmail&logoColor=D8FF3E" />
+  </a>
+</p>
+
+<p align="center">
+  <code>INPUT → PROCESS → ITERATE → PROGRESS</code>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💼 Data & AI Engineer at **AEM Enersol**
+- 🎓 Master of Science in **Artificial Intelligence**
+- 🏅 Microsoft Certified: **Azure AI Engineer Associate (AI-102)**
+- 📊 Working across **Data Engineering, AI, Analytics, and Cloud Solutions**
+- 🤖 Building **AI-powered applications, data platforms, and digital products**
+- 🌱 Currently exploring **LLM applications, AI agents, and modern data engineering**
+- 🧪 Building independent projects and experiments under **Made by Razeen**
+- 🏃 Outside tech, you'll probably find me doing something sports-related
+
+> **Engineer. Builder. Sports Addict. Curious Human.**
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,java,cpp" />
+</p>
+
+### ☁️ Data Engineering & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,postgres,mysql,supabase,docker,kubernetes" />
+</p>
+
+**Power BI • SQL Server • ETL • Data Warehousing • Data Modelling**
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+**OpenAI • Scikit-learn • FastText • NLP • LLM Applications • AI Agents**
+
+### 🌐 Frontend & Product
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,tailwind,html,css" />
+</p>
+
+### 🛠 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+- 🥇 **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
+- 🥇 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+- 🥇 **Microsoft Azure Data Fundamentals (DP-900)**
+- 🥇 **PCEP – Certified Entry-Level Python Programmer**
+- 🥇 **Confluent Data Streaming Engineer Foundations**
+- 🥇 **Confluent Data Streaming with Apache Flink**
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=razeeniqbal&theme=github-dark-blue&hide_border=true"
+    alt="Razeen's GitHub streak"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect and collaborate on projects involving:
+
+- 🤖 Artificial Intelligence & AI Agents
+- ⚡ Data Engineering
+- 📊 Analytics
+- 🧠 Machine Learning
+- ☁️ Cloud Technologies
+- 🧩 Product Building
+- 🚀 Open Source
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/razeeniqbal">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/razeeniqbal">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;
+  <a href="mailto:razeeniqbal98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-razeeniqbal98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### `razeeniqbal.`
 
 **Engineer. Builder. Sports Addict. Curious Human.**
 
-Data & AI Engineer working across data systems, applied AI and digital products.
+`INPUT → PROCESS → ITERATE → PROGRESS`
 
-I started in engineering, moved into data, and now spend most of my time
-building systems that sit somewhere between **data engineering, AI and product**.
-
-[Portfolio](https://portfolio.madebyrazeen.com) ·
+[Portfolio](https://portfolio.madebyrazeen.com) •
 [LinkedIn](https://www.linkedin.com/in/razeeniqbal)
 
----
+<sub>MADE BY RAZEEN</sub>
 
-## Currently
-
-**Data & AI Engineer · AEM Enersol**
-
-Working on data platforms, ETL pipelines, analytics systems and applied AI.
-
-Alongside work, I build independent projects exploring how data, AI and
-software can become useful products.
-
-`DATA → SYSTEM → INTELLIGENCE → PRODUCT`
-
----
-
-## Selected work
-
-### FORMA
-**Shape messy data into reliable pipelines.**
-
-A professional data workbench for visually inspecting, transforming,
-validating and exporting reliable data pipelines.
-
-`Data Engineering · React · TypeScript · Python`
-
----
-
-### RUANG
-**A local-first AI workforce.**
-
-An experimental desktop environment where AI agents work like a small
-digital team — with tasks, outputs, approvals and persistent workspaces.
-
-`AI Agents · Desktop · TypeScript · Local-first`
-
----
-
-### Sepang Vision Lab
-**Motorsport data, computer vision and interactive race systems.**
-
-An experimental F1 visualization lab exploring real race data,
-interactive cameras, telemetry and ML.
-
-`Three.js · Data Visualization · ML · Motorsport`
-
----
-
-### VSB
-**A social volleyball platform built around the player.**
-
-A Malaysian volleyball product exploring player identity, games,
-booking and community.
-
-`Product Engineering · React · TypeScript`
-
----
-
-### BALANG
-**Agak. Risiko. Menang.**
-
-A Malaysian probability and prediction party game built around
-risk, observation and social play.
-
-`Game Design · Product · Probability`
-
----
-
-## What I work with
-
-**Data**
-Python · SQL · PostgreSQL · ETL · Data Modelling · Power BI · Azure
-
-**AI**
-LLM Applications · AI Agents · NLP · Machine Learning · Evaluation
-
-**Product**
-TypeScript · React · Next.js · Supabase · GitHub
-
-I care more about choosing the right tool for the system than collecting
-technologies.
-
----
-
-## Credentials
-
-MSc Artificial Intelligence
-
-Microsoft Certified:
-**Azure AI Engineer Associate · Power BI Data Analyst Associate · Azure Data Fundamentals**
-
-Confluent:
-**Data Streaming Engineer Foundations · Data Streaming with Apache Flink**
-
----
-
-## Elsewhere
-
-Most of my work is documented more thoroughly on my portfolio:
-
-**→ [portfolio.madebyrazeen.com](https://portfolio.madebyrazeen.com)**
-
-There you'll find project case studies, experiments, field notes,
-experience and things I'm currently building.
-
----
-
-<sub>
-INPUT → PROCESS → ITERATE → PROGRESS
-</sub>
+</div>
