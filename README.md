@@ -1,122 +1,121 @@
-# Hi there 👋 I'm Razeen Iqbal
+# razeeniqbal.
 
-### Data & AI Engineer @ AEM Enersol
+**Engineer. Builder. Sports Addict. Curious Human.**
 
-**Microsoft Certified: Azure AI Engineer Associate (AI-102)** • **MSc in Artificial Intelligence**
+Data & AI Engineer working across data systems, applied AI and digital products.
 
-I build AI-powered applications, scalable data pipelines, and enterprise analytics solutions that transform raw data into meaningful business insights.
+I started in engineering, moved into data, and now spend most of my time
+building systems that sit somewhere between **data engineering, AI and product**.
 
-I'm passionate about **Artificial Intelligence**, **Data Engineering**, **Machine Learning**, **Generative AI**, and **Cloud Technologies**.
-
-<p align="left">
-  <a href="https://razeeniqbal.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/razeeniqbal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:razeeniqbal98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[Portfolio](https://portfolio.madebyrazeen.com) ·
+[LinkedIn](https://www.linkedin.com/in/razeeniqbal)
 
 ---
 
-## 🚀 About Me
+## Currently
 
-- 💼 Data & AI Engineer at **AEM Enersol**
-- 🎓 Master of Science in Artificial Intelligence
-- 🏅 Microsoft Certified: Azure AI Engineer Associate (AI-102)
-- 📊 Experienced in AI, Data Engineering, Analytics, and Cloud Solutions
-- 🤖 Building AI-powered applications and enterprise data platforms
-- 🌱 Currently working on LLM applications, AI Agents, and modern Data Engineering
+**Data & AI Engineer · AEM Enersol**
 
----
+Working on data platforms, ETL pipelines, analytics systems and applied AI.
 
-## 🛠 Tech Stack
+Alongside work, I build independent projects exploring how data, AI and
+software can become useful products.
 
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,java,cpp" />
-</p>
-
-### ☁️ Data Engineering & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,postgres,mysql,supabase,docker,kubernetes" />
-</p>
-
-**Power BI • SQL Server • ETL • Data Warehousing**
-
-### 🤖 AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-**OpenAI • Scikit-learn • FastText • NLP • LLM Applications • AI Agents**
-
-### 🌐 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,tailwind,html,css" />
-</p>
-
-### 🛠 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+`DATA → SYSTEM → INTELLIGENCE → PRODUCT`
 
 ---
 
-## 🏆 Certifications
+## Selected work
 
-- 🥇 Microsoft Certified: Azure AI Engineer Associate (AI-102)
-- 🥇 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- 🥇 Microsoft Azure Data Fundamentals (DP-900)
-- 🥇 PCEP – Certified Entry-Level Python Programmer
-- 🥇 Confluent Data Streaming Engineer Foundations
-- 🥇 Confluent Data Streaming with Apache Flink
+### FORMA
+**Shape messy data into reliable pipelines.**
 
----
+A professional data workbench for visually inspecting, transforming,
+validating and exporting reliable data pipelines.
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razeeniqbal&theme=tokyonight&hide_border=true" />
-</p>
+`Data Engineering · React · TypeScript · Python`
 
 ---
 
-## 🤝 Let's Connect
+### RUANG
+**A local-first AI workforce.**
 
-I'm always happy to collaborate on projects involving:
+An experimental desktop environment where AI agents work like a small
+digital team — with tasks, outputs, approvals and persistent workspaces.
 
-- 🤖 Artificial Intelligence
-- ⚡ Data Engineering
-- 📊 Analytics
-- 🧠 Machine Learning
-- ☁️ Cloud Technologies
-- 🚀 Open Source
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/razeeniqbal">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/razeeniqbal">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:razeeniqbal98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-razeeniqbal98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+`AI Agents · Desktop · TypeScript · Local-first`
 
 ---
 
-<div align="center">
+### Sepang Vision Lab
+**Motorsport data, computer vision and interactive race systems.**
 
-## 💡 Building AI solutions that turn data into business value.
+An experimental F1 visualization lab exploring real race data,
+interactive cameras, telemetry and ML.
 
-</div>
+`Three.js · Data Visualization · ML · Motorsport`
+
+---
+
+### VSB
+**A social volleyball platform built around the player.**
+
+A Malaysian volleyball product exploring player identity, games,
+booking and community.
+
+`Product Engineering · React · TypeScript`
+
+---
+
+### BALANG
+**Agak. Risiko. Menang.**
+
+A Malaysian probability and prediction party game built around
+risk, observation and social play.
+
+`Game Design · Product · Probability`
+
+---
+
+## What I work with
+
+**Data**
+Python · SQL · PostgreSQL · ETL · Data Modelling · Power BI · Azure
+
+**AI**
+LLM Applications · AI Agents · NLP · Machine Learning · Evaluation
+
+**Product**
+TypeScript · React · Next.js · Supabase · GitHub
+
+I care more about choosing the right tool for the system than collecting
+technologies.
+
+---
+
+## Credentials
+
+MSc Artificial Intelligence
+
+Microsoft Certified:
+**Azure AI Engineer Associate · Power BI Data Analyst Associate · Azure Data Fundamentals**
+
+Confluent:
+**Data Streaming Engineer Foundations · Data Streaming with Apache Flink**
+
+---
+
+## Elsewhere
+
+Most of my work is documented more thoroughly on my portfolio:
+
+**→ [portfolio.madebyrazeen.com](https://portfolio.madebyrazeen.com)**
+
+There you'll find project case studies, experiments, field notes,
+experience and things I'm currently building.
+
+---
+
+<sub>
+INPUT → PROCESS → ITERATE → PROGRESS
+</sub>
